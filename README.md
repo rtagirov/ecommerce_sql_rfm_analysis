@@ -11,7 +11,7 @@ Kомплексный анализ клиентской базы e-commerce би
 
 ## Используемые данные
 
-Транзакционный e-commerce датасет со следующими полями:
+Транзакционный e-commerce датасет Olist (Brazilian E-Commerce Public Dataset by Olist, Kaggle) со следующими полями:
 
 - customer_unique_id — уникальный клиент
 - order_purchase_timestamp — дата покупки
